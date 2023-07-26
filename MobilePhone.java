@@ -1,0 +1,4 @@
+class MobilePhone extends ElectronicDevice{
+
+
+}
